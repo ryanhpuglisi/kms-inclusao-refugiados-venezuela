@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KMS Comunitário - Integração de Refugiados</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f6f9; color: #333; }
+        header { background: #1a365d; color: white; padding: 15px; text-align: center; font-weight: bold; }
+        .container { padding: 15px; max-width: 500px; margin: 0 auto; }
+        .card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h2 { color: #2c5282; font-size: 16px; margin-top: 0; border-bottom: 2px solid #ebf8ff; padding-bottom: 5px; }
+        .termo { border-left: 4px solid #319795; padding-left: 10px; margin-bottom: 10px; }
+        .btn { display: block; background: #319795; color: white; text-align: center; padding: 10px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        PORTAL DE INTEGRAÇÃO COMUNITÁRIA
+    </header>
+
+    <div class="container">
+        <!-- MÓDULO LINGUÍSTICO -->
+        <div class="card">
+            <h2>Módulo de Tradução e Equivalência de Direitos (CLT)</h2>
+            <div class="termo">
+                <strong>Carteira de Trabalho (CTPS):</strong><br>
+                BR: Documento oficial de registro trabalhista.<br>
+                <em>VEN: Documento oficial de registro laboral en Brasil.</em>
+            </div>
+            <div class="termo">
+                <strong>Aviso Prévio Proporcional:</strong><br>
+                BR: Direito do trabalhador na rescisão sem justa causa (Lei 12.506/11).<br>
+                <em>VEN: Aviso previo proporcional en caso de despido.</em>
+            </div>
+        </div>
+
+        <!-- MÓDULO DE EMPREGABILIDADE -->
+        <div class="card">
+            <h2>Mural de Emprego Justo (Art. 170 CF/88)</h2>
+            <p><strong>Vaga #409:</strong> Operador de Atendimento Bilíngue</p>
+            <p><strong>Empresa:</strong> TechSul Logística | Curitiba (Híbrido)</p>
+            <p><strong>Remuneração:</strong> Piso CLT Garantido + Benefícios</p>
+            <p style="color: #319795; font-size: 13px;">* Requisito: Espanhol Nativo. Português básico aceito.</p>
+            <a href="#" class="btn">Candidatar-se à Vaga / Contactar WhatsApp</a>
+        </div>
+    </div>
+
+</body>
+</html>
